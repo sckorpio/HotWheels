@@ -1,10 +1,8 @@
-# HotWheels
+![](screenshot/Screenshot%20from%202017-11-10%2023-41-27.png)
 
 # PROJECT TITLE:   HotWheels
 # AUTHORS:         Sckorpio
 # VERSION or DATE: September,2017
-
-https://github.com/sckorpio/HotWheels/blob/master/screenshot/Screenshot%20from%202017-11-10%2023-41-27.png
                       
 
 # PURPOSE OF PROJECT:
